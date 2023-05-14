@@ -1,5 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 更新済み
-stashコンフリクト用
-
+stash untrack練習
